@@ -1,4 +1,4 @@
 using system;
 static void main (){
-console.writeline("hello world");
+console.writeline("hallo wereld");
 }
